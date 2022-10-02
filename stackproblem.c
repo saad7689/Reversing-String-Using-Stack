@@ -1,4 +1,3 @@
-//stackproblem.c -- Lab 02 -- Saad, Rizvi
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
